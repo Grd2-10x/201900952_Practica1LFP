@@ -14,7 +14,7 @@ def inicio():
   while(razon):
       ingreso = input("ingrese comando: ")
       entrada = ingreso.split(maxsplit=1)
-      instruccion = entrada [0].lower()
+      instruccion = entrada [0].upper()
 
 if instruccion == "CARGAR":
       charge(entrada[1])
