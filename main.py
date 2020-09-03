@@ -194,8 +194,8 @@ def mins(valor):
 <body>
 
 <div class="container">
-  <h2>Table Head Colors</h2>
-  <p>The .thead-dark class adds a black background to table headers, and the .thead-light class adds a grey background to table headers:</p>
+  <h2>Reporte de Archivos</h2>
+  
   <table class="table">
     <thead class="thead-dark">
       <tr>
